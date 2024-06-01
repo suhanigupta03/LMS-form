@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const scriptElement = document.querySelector('script[src="Form.js"]');
+    const scriptElement = document.querySelector('script[src="https://lms-form-rose.vercel.app/Form.js"]');
   
     if (!scriptElement) {
         console.error('Script element with src="Form.js" not found.');
